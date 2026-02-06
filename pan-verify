@@ -1,0 +1,20 @@
+{
+  "result": {
+    "name": "JOHN DOE",
+    "number": "ABCDE1234F",
+    "typeOfHolder": "Individual",
+    "isIndividual": true,
+    "isValid": true,
+    "firstName": "JOHN",
+    "middleName": "",
+    "lastName": "DOE",
+    "title": "Shri",
+    "panStatus": "Valid",
+    "panStatusCode": "E",
+    "aadhaarSeedingStatus": "Aadhaar Seeded",
+    "aadhaarSeedingStatusCode": "Y",
+    "lastUpdatedOn": "01/01/2024",
+    "updatetTimestamp": "2024-01-01T00:00:00.000Z",
+    "individualTaxComplianceStatus": "Active"
+  }
+}
